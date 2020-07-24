@@ -13,6 +13,8 @@
         10. Contact Styles
         11. Optional Section Styles
         12. Media Queries
+        13. Research styles
+        14. Interests styles
 */
 /*
     ------------------------
@@ -928,4 +930,51 @@ footer {
     font-size: 0.9em;
     padding: 5px 10px;
   }
+}
+
+
+/*
+    -------------------------------
+    ----- 12. Research Styles -----
+    -------------------------------
+*/
+#research {
+  padding: 50px 15px;
+  text-align: center;
+}
+#research h2 {
+  color: #374054;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+#research ul {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
+}
+#research li {
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color: #374054;
+  background: #e4e4ea;
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+}
+
+/*
+    -------------------------------
+    ----- 12. Interests Styles -----
+    -------------------------------
+*/
+#interests {
+  padding: 50px 15px;
+  text-align: center;
+}
+#interests h2 {
+  color: #374054;
+  margin-bottom: 20px;
+  margin-top: 50px;
 }
