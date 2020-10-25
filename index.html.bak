@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
     <link href="libs/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+
 defer="defer"></script>
     <script async="" defer="defer" src="https://buttons.github.io/buttons.js"></script>
     <script src="js/scripts.js" defer="defer"></script>
@@ -36,7 +37,8 @@ defer="defer"></script>
     </header>
     <!-- End header -->
     <div id="lead">
-      <div id="lead-content"> <span><img src="images/mypic.jpg" style="width: 239px; height: 307px;"
+      <div id="lead-content"> <span><img src="images/mypic.jpg" style="width: 239px; height: 307px;"
+
             align="left"> </span>
         <h1>Dr.ENİS ARSLAN</h1>
         <h2>Computer Scientist</h2>
@@ -72,15 +74,17 @@ defer="defer"></script>
             <br>
             <p>Industrial experience harmonized with academical view.</p>
             <br>
-            <p> Available for short-term &amp; long-term positions
-              (Universities, Research Institutes, Private Sector).</p>
             <p><br>
             </p>
             <p>Contact: <a href="mailto:enisarslan@gmail.com">enisarslan@gmail.com</a></p>
-            <div itemscope="" itemtype="https://schema.org/Person"><a itemprop="sameAs"
-                content="https://orcid.org/0000-0002-2609-3925" href="https://orcid.org/0000-0002-2609-3925"
-                target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img
-                  src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+            <div itemscope="" itemtype="https://schema.org/Person"><a itemprop="sameAs"
+
+                content="https://orcid.org/0000-0002-2609-3925" href="https://orcid.org/0000-0002-2609-3925"
+
+                target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img
+
+                  src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+
                   style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2609-3925</a></div>
             <p><br>
             </p>
@@ -208,6 +212,13 @@ defer="defer"></script>
             International Mediterranean Science and Engineering Congress (IMSEC
             2017).</p>
           <br>
+          <p>Erenoğlu, R. C. , Arslan, N., Erenoğlu, O., Arslan, E.,
+          (2017). Thermal Anomalies Detection Using Aster Images In Tuzla Hot
+          Springs Region . International Symposium on Modern Technologies,
+          Education And Professional Practice In Geodesy And Related Fields
+          (pp.1-10). Sofya, Bulgaria
+          </p>          
+          <br>
           <p>Arslan, E., and Orhan, U. (2016, August). Graph-based lemmatization
             of Turkish words by using morphological similarity. In 2016
             International Symposium on INnovations in Intelligent SysTems and
@@ -227,7 +238,8 @@ defer="defer"></script>
           <h5>Research Project:</h5>
           <p>Live Turkish Dictionary Design with Weighted Graphs (TUBITAK
             Project:215E256), 2016-2019 (Completed)</p>
-          <p>Project Site: <a href="canlisozluk.cu.edu.tr">Live Dictionary</a></p>
+          <p>Project Site: <a href="https://canlisozluk.cu.edu.tr">Live
+              Dictionary</a></p>
           <br>
           <h5>PhD Thesis:</h5>
           <p>Learning Word-Vector Quantization: A Study In Morphological
@@ -318,7 +330,8 @@ defer="defer"></script>
     <div id="contact">
       <h2>Get in Touch</h2>
       <div id="contact-form">
-        <form name="contact" data-netlify="true" netlify-honeypot="field"> <input
+        <form name="contact" data-netlify="true" netlify-honeypot="field"> <input
+
             name="_subject" value="Contact request from personal website" type="hidden">
           <input name="_replyto" placeholder="Your email" required="" type="email">
           <textarea name="message" placeholder="Your message" required=""></textarea>
@@ -332,7 +345,8 @@ defer="defer"></script>
           <div class="col-sm-5 copyright">
             <p> Copyright © 2019 Mickael Hebert, MIT license </p>
           </div>
-          <div class="col-sm-2 top"> <span id="to-top"> <i class="fa fa-chevron-up"
+          <div class="col-sm-2 top"> <span id="to-top"> <i class="fa fa-chevron-up"
+
                 aria-hidden="true"></i> </span> </div>
         </div>
       </div>
