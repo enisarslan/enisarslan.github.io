@@ -178,27 +178,41 @@ defer="defer"></script>
       <div class="articles-block">
         <blockquote class="embedly-card" data-card-controls="0" data-card-recommend="0">
           <h4>PUBLICATIONS</h4>
+          <p><br>
+          </p>
+          <p> Arslan E. (2020). Thermal anomaly detection of industrial zones
+            with MNF and ICA. Turkish Journal of Geosciences (Accepted:
+            23.10.2020) </p>
+          <p><a href="https://dergipark.org.tr/tr/pub/turkgeo/page/10891">Link</a></p>
+          <br>
+          <br>
           <p>Orhan U., Arslan E. (2020), Learning Word-Vector Quantization: A
             Case Study in Morphological Disambiguation, Transactions on Asian
             and Low-Resource Language Information Processing (SCI-E)</p>
+          <p><a href="https://dl.acm.org/doi/abs/10.1145/3397967">Link</a></p>
           <br>
           <p>Erenoglu, R. C., Arslan, N., Erenoglu, O., and Arslan, E. (2019).
             Application of spectral analysis to determine geothermal anomalies
             in the Tuzla region, NW Turkey. Arabian Journal of Geosciences,
             12(14), 439. (SCI-E)</p>
+          <p><a href="https://link.springer.com/article/10.1007/s12517-019-4599-2">Link</a></p>
           <br>
           <p>Arslan, E., and Erenoglu, R. C. (2019). Assessment of hotspots
             using sparse autoencoder in industrial zones. Environmental
             Monitoring and Assessment, 191(7), 453. (SCI-E)</p>
+          <p><a href="https://link.springer.com/article/10.1007/s10661-019-7572-3">Link</a></p>
           <br>
           <p>Arslan, E., and Orhan, U. (2019). Identification of OOV words in
             Turkish texts. Gaziosmanpaşa Bilimsel Araştırma Dergisi, 8(2),
             35-48.</p>
+          <p><a href="https://dergipark.org.tr/en/pub/gbad/issue/48739/505501">Link</a></p>
           <br>
           <p>Arslan, E., Orhan, U., and Tahiroğlu, B. T. (2018). Serbest Sırada
             Birliktelik İstatistiklerinin Kullanımıyla Türkçe'nin Biçimbirimsel
             Belirsizliği'nin Giderilmesi. Gümüşhane Üniversitesi Fen Bilimleri
             Enstitüsü Dergisi, 46-52.</p>
+          <p><a href="https://dergipark.org.tr/en/pub/gumusfenbil/article/430034">Link</a></p>
+          <br>
         </blockquote>
         <blockquote class="embedly-card" data-card-controls="0" data-card-recommend="0">
           <h4>CONFERENCES</h4>
@@ -207,17 +221,22 @@ defer="defer"></script>
             The Third International Conference On Computational Mathematics And
             Engineering Sciences (CMES-2018), GIRNE, 04-06 MAY 2018.</p>
           <br>
+          <p>Erenoğlu, R. C. , Arslan, N., Erenoğlu, O., Arslan, E. (2017).
+            Thermal Anomalies Detection Using Aster Images In Tuzla Hot Springs
+            Region. International Symposium on Modern Technologies, Education
+            And Professional Practice In Geodesy And Related Field (pp.1-10).
+            Sofya, Bulgaria </p>
+          <br>
           <p>Arslan E., and Orhan, U. (2017, October). Using Graphs in
             Construction of a Lemmatization Model for Turkish. In Proc. 2nd
             International Mediterranean Science and Engineering Congress (IMSEC
             2017).</p>
           <br>
-          <p>Erenoğlu, R. C. , Arslan, N., Erenoğlu, O., Arslan, E.,
-          (2017). Thermal Anomalies Detection Using Aster Images In Tuzla Hot
-          Springs Region . International Symposium on Modern Technologies,
-          Education And Professional Practice In Geodesy And Related Fields
-          (pp.1-10). Sofya, Bulgaria
-          </p>          
+          <p>Erenoğlu, R. C. , Arslan, N., Erenoğlu, O., Arslan, E., (2017).
+            Thermal Anomalies Detection Using Aster Images In Tuzla Hot Springs
+            Region . International Symposium on Modern Technologies, Education
+            And Professional Practice In Geodesy And Related Fields (pp.1-10).
+            Sofya, Bulgaria </p>
           <br>
           <p>Arslan, E., and Orhan, U. (2016, August). Graph-based lemmatization
             of Turkish words by using morphological similarity. In 2016
